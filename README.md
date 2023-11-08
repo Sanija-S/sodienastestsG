@@ -1,0 +1,2 @@
+# sodienastestsG
+sodienas treniņš
